@@ -19,9 +19,33 @@ i {
     width: 150px;
     font-size: 40px;
     margin-left: 50px;
+    margin-bottom: 50px;
 }
 
 .whiteText {
     color: white;
+    font-weight: bolder;
+    font-size: medium;
+    margin-top: 70px;
+}
+
+#counterOne {
+    color: white;
     font-weight: bold;
+    margin-left: 45px;
+    font-size: xx-large;
+}
+
+#counterTwo {
+    color: white;
+    font-weight: bold;
+    margin-left: 45px;
+    font-size: xx-large;    
+}
+
+#counterThree {
+    color: white;
+    font-weight: bold;
+    margin-left: 45px;
+    font-size: xx-large;    
 }
