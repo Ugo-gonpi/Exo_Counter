@@ -3,14 +3,25 @@ body {
     display: flex;
     justify-content: center;
     align-items: center;
-    height: 500px;
-    width: 500px;
+    height: 100vh;
+    width: 100vw;
 }
 
 
 .bigDiv {
-    margin-top: 200px;
-    margin-left: 500px;
     display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-bottom: 100px;
 }
 
+i {
+    width: 150px;
+    font-size: 40px;
+    margin-left: 50px;
+}
+
+.whiteText {
+    color: white;
+    font-weight: bold;
+}
